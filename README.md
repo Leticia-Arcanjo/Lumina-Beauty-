@@ -1,5 +1,5 @@
-# Lumina-Beauty-
-LuminaBeauty/ ├── frontend/    → Aplicação React + Vite └── backend/     → API REST ASP.NET Core 8 + SQLite
+Lumina Beauty Emporium
+Projeto fullstack de e-commerce de beleza desenvolvido com React no frontend e ASP.NET Core no backend.
 
 Estrutura do Projeto
 LuminaBeauty/
